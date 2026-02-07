@@ -1,0 +1,6 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+undetected-chromedriver>=3.5.0
+selenium>=4.16.0
+Pillow>=10.0.0
+setuptools  # Required for distutils in Python 3.12+
